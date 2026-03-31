@@ -1,0 +1,8 @@
+inference: []
+training:
+- cfg: centroid.yaml
+  run_path: models/centroid_260331_091629
+  train_labels: data.slp
+- cfg: centered_instance.yaml
+  run_path: models/centered_instance_260331_091629
+  train_labels: data.slp
