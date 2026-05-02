@@ -64,15 +64,9 @@ Before training the model, you need to define the animal nodes and edges. I want
 ## Installation
 
 ### Install SLEAP
-Use Conda to create a new environment named sleap_ji with Python 3.10:
-<pre>
-conda create -n sleap_ji python=3.10
-</pre>
 
-Activate the environment and install SLEAP with neural network support:
 <pre>
-conda activate sleap_ji
-pip install "sleap[nn]"
+uv tool install --python 3.13 "sleap[nn]"
 </pre>
 
 If you want to check the python version:
