@@ -1,6 +1,6 @@
 # [CML_sleapmodel](https://github.com/hsiulan/CML_sleapmodel)
 
-Keywords: [SlEAP](https://sleap.ai/)、Deep Learning、Computer Vision、Object Tracking、captive dolphin
+Keywords: [SLEAP](https://sleap.ai/)、Deep Learning、Computer Vision、Object Tracking、captive dolphin
 
 ## Abstract  
 My project consists of two primary stages. The first stage focuses on training the model to recognize individual dolphins and their poses using SLEAP, an open-source deep learning framework that features a graphical user interface for labeling. The second stage involves training the model to classify specific behaviors represented by these poses. This behavioral classification will be implemented using [B-SOiD](https://github.com/YttriLab/B-SOID?tab=readme-ov-file) on top of the SLEAP outputs. As I am currently in the process of training the SLEAP models, I have not yet transitioned to the B-SOiD implementation.
@@ -44,7 +44,7 @@ Before training the model, you need to define the animal nodes and edges. I want
 | 7 | Right Caudal Fin |  |
 | 8 | Left Pectoral Fin |  |
 | 9 | Right Pectoral Fin |  |
-| 10 | Dorsul Fin |  |
+| 10 | Dorsal Fin |  |
 
 
 |  | Source | Destination |
