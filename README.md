@@ -80,7 +80,9 @@ sleap-label
 
 ## Demo/Showcase
 
-<img width="720" height="405" alt="Timeline_HighQual" src="https://github.com/user-attachments/assets/72ff7910-7907-4332-a801-5e55427975d2" />
+<p align="center">
+<img width="715" height="208" alt="Timeline_715x208" src="https://github.com/user-attachments/assets/7185fc17-76ff-41de-8821-f331eda381eb" />
+</p>
 
 還沒想到怎麼寫模型的install拍謝。  
 先醬，我會努力更新的～～～
