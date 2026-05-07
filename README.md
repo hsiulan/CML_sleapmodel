@@ -2,11 +2,6 @@
 
 Keywords: [SLEAP](https://sleap.ai/)、Deep Learning、Computer Vision、Object Tracking、captive dolphin
 
-<div align="center">
-  <img width="400" height="250" alt="dolphin" src="https://github.com/user-attachments/assets/4f39ff9a-28bc-4b9e-8641-7cfb82a78308" />
-  <img width="400" height="250" alt="Adobe Express - back" src="https://github.com/user-attachments/assets/d97cb977-39ba-4680-b4f1-27d0caba6194" />
-</div>
-
 ## Abstract  
 My project consists of two primary stages. The first stage focuses on training the model to recognize individual dolphins and their poses using SLEAP, an open-source deep learning framework that features a graphical user interface for labeling. The second stage involves training the model to classify specific behaviors represented by these poses. This behavioral classification will be implemented using [B-SOiD](https://github.com/YttriLab/B-SOID?tab=readme-ov-file) on top of the SLEAP outputs. As I am currently in the process of training the SLEAP models, I have not yet transitioned to the B-SOiD implementation.
 
@@ -63,8 +58,7 @@ Before training the model, you need to define the animal nodes and edges. I want
 
 
 
-<img width="1943" height="1834" alt="AIMG_0152" src="https://github.com/user-attachments/assets/4216d6e2-be04-4836-92ad-484ad558f560" />
-  
+<img width="1943" height="1834" alt="AIMG_0152" src="https://github.com/user-attachments/assets/4216d6e2-be04-4836-92ad-484ad558f560" />  
 
 ## Installation
 
@@ -83,6 +77,14 @@ Open sleap:
 <pre>
 sleap-label
 </pre>
+
+## Demo/Showcase
+
+<div align="center">
+  <img width="400" height="250" alt="dolphin" src="https://github.com/user-attachments/assets/4f39ff9a-28bc-4b9e-8641-7cfb82a78308" />
+  <img width="400" height="250" alt="Adobe Express - back" src="https://github.com/user-attachments/assets/d97cb977-39ba-4680-b4f1-27d0caba6194" />
+</div>
+
 
 還沒想到怎麼寫模型的install拍謝。  
 先醬，我會努力更新的～～～
