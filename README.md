@@ -80,11 +80,7 @@ sleap-label
 
 ## Demo/Showcase
 
-<div align="center">
-  <img width="400" height="250" alt="dolphin" src="https://github.com/user-attachments/assets/4f39ff9a-28bc-4b9e-8641-7cfb82a78308" />
-  <img width="400" height="250" alt="Adobe Express - back" src="https://github.com/user-attachments/assets/d97cb977-39ba-4680-b4f1-27d0caba6194" />
-</div>
-
+<img width="720" height="405" alt="Timeline_HighQual" src="https://github.com/user-attachments/assets/72ff7910-7907-4332-a801-5e55427975d2" />
 
 還沒想到怎麼寫模型的install拍謝。  
 先醬，我會努力更新的～～～
