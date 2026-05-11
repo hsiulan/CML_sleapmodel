@@ -81,6 +81,7 @@ sleap-label
 
 ## Demo/Showcase
 
+Run inference using the 1400-frame model and export the video.
 <p align="center">
 <img width="715" height="208" alt="Timeline_715x208" src="https://github.com/user-attachments/assets/7185fc17-76ff-41de-8821-f331eda381eb" />
 </p>
