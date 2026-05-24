@@ -63,6 +63,20 @@ Before training the model, you need to define the animal nodes and edges. I want
 
 ## Installation
 
+### Download CML_sleapmodel
+
+Make sure you have git:
+
+<pre>
+git --version
+</pre>
+
+Download CML_sleapmodel:
+
+<pre>
+git clone https://github.com/hsiulan/CML_sleapmodel.git
+</pre>
+
 ### Install SLEAP
 
 <pre>
