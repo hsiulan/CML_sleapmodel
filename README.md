@@ -18,6 +18,8 @@ This project is about training a model and creating a useful tool.I intend for t
 * [野柳海洋世界](https://www.oceanworld.com.tw/)
     + Right side female pool : Tursiops aduncus
     + Square pool : Tursiops aduncus
+    + Right side male pool : Tursiops aduncus
+    + Left side male pool : Tursiops aduncus
 * [遠雄海洋公園](https://www.farglory-oceanpark.com.tw/) (Unprocessed)  
     + coming soon : Tursiops
 
